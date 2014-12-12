@@ -2,8 +2,8 @@
 title: "Rens Design"
 email: rensramos@yahoo.com.ph
 description: "Lorem ipsum dolor sit amet, mea no brute definiebas, et pro fabellas mediocrem. Veritus perpetua vix at. Mel ei novum malorum lucilius. Sit te probo appareat, duis eius scripserit ex est, percipit quaerendum eam ea. Cum quem audiam dissentias at, in cum decore percipit. Quo cotidieque vituperatoribus ad, ex pro lorem nulla dicant, posse copiosae invenire cum eu."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rensramos.github.io/SampleJekyll" # the base hostname & protocol for your site
+baseurl: "/SampleJekyll" # the subpath of your site, e.g. /blog/
+url: "http://rensramos.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  rensramos
 
